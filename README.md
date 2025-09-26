@@ -11,7 +11,7 @@ Designed to be a clean foundation for new projects.
 - shadcn/ui components
 - Pre-configured ESLint & Prettier
 
-# 📝 Notes
+## 📝 Notes
 
 This is meant as a personal starter kit.
 Feel free to fork, customize, or extend it for your own projects.
