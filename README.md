@@ -1,4 +1,4 @@
-# Next Starter – Ben
+# Next Starter – Template
 
 A lightweight starter template for building apps.
 Designed to be a clean foundation for new projects.
